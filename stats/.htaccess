@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName "econois.com.br Statistics"
+AuthUserFile /var/chroot/home/content/18/5272518/html/stats/.statspwd
+Require valid-user
+DirectoryIndex index.html
